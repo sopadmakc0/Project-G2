@@ -20,3 +20,5 @@ Na raiz do repositório, execute:
 
 ```bash
 python3 -m unittest discover -s tests -v
+
+- `Observação`: dependendo da versão instalada do seu python, no terminal pode ser usado py ou python ou python3, por favor verifique os Pré-requisitos se batem de acordo!
