@@ -17,8 +17,8 @@ Projeto prático de Análise e Projeto de Algoritmos / Estruturas de Dados que r
 ## Como Executar os Testes
 
 Na raiz do repositório, execute:
-
+- `Observação`: dependendo da versão instalada do seu python, no terminal pode ser usado py ou python ou python3, por favor verifique os Pré-requisitos se batem de acordo!
 ```bash
 python3 -m unittest discover -s tests -v
 
-- `Observação`: dependendo da versão instalada do seu python, no terminal pode ser usado py ou python ou python3, por favor verifique os Pré-requisitos se batem de acordo!
+
